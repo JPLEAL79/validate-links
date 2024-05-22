@@ -1,0 +1,1 @@
+This is a repository to validate all the links on the website. An algorithm was built using Page object model and factory, using Selenium, Java as the programming language, TestNg for test annotations, Allure for the report and Maven as the project architecture, the parallel method was applied to have better performance
